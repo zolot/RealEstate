@@ -43,7 +43,7 @@ header {
             width: 70px;
             height: 70px;
             border-radius: 50px;
-            background: rgba(0, 0, 0, 0.8);           
+            background: rgba(0, 0, 0, 0.8);
             -webkit-box-shadow: 0px 0px 0px 5px rgba(0,0,0,0.3);
             -moz-box-shadow: 0px 0px 0px 5px rgba(0,0,0,0.3);
             box-shadow: 0px 0px 0px 5px rgba(0,0,0,0.3);
@@ -54,7 +54,7 @@ header {
 
         .circle-left {
             margin-left: 25px;
-               
+
         }
 
         .circle-right {
@@ -69,7 +69,7 @@ header {
                 overflow: hidden;
                 position: absolute;
                 top: 22px;
-                        
+
             }
             .arrov-left {
                 background-position: 0 0;
@@ -82,7 +82,7 @@ header {
 
         .circle:hover {
             background: rgba(32, 152, 245, 0.8)
-        }        
+        }
 
     .center-header {
         width: 1000px;
@@ -149,10 +149,9 @@ header {
                     .plus {
                         background-position: 23px 45px;
                     }
-
         nav {
             position: absolute;
-            bottom: 0;
+	        bottom: 0;
             left: 0;
             right: 0;
             margin-left: auto;
@@ -165,7 +164,7 @@ header {
                 padding: 0px;
                 padding-left: 22px;
                 padding-right: 22px;
-                background: rgba(0, 0, 0, 0.8);                  
+                background: rgba(0, 0, 0, 0.8);
             }
 
                 #menu li {
@@ -184,19 +183,19 @@ header {
                         color: white;
                         font-size: 28px;
                         font-family: Vegur-Bold;
-                        line-height: 70px;        
+                        line-height: 70px;
                         padding-left: 35px;
                         padding-right: 35px;
-                        display: block;    
-                        transition: all .25s;    
+                        display: block;
+                        transition: all .25s;
                     }
 
-    
+
 
 .content {
     background: #272727;
     padding-bottom: 83px;
-}    
+}
 
     .center-content {
         width: 940px;
@@ -205,7 +204,7 @@ header {
         margin-left: auto;
         margin-right: auto;
     }
-    
+
         .info {
             width: 617px;
             text-align: left;
@@ -250,8 +249,8 @@ header {
             }
                 .column {
                     width: 180px;
-                    display: inline-block;    
-                    margin-top: 25px;                
+                    display: inline-block;
+                    margin-top: 25px;
                 }
                     .column img {
                         border: 4px solid white;
@@ -265,7 +264,7 @@ header {
                     .column a, button {
                         height: 34px;
                         width: 88px;
-                        background: #2098f5;    
+                        background: #2098f5;
                         text-align: center;
                         color: white;
                         font-size: 20px;
@@ -288,7 +287,7 @@ header {
 
                 .form {
                     background: #131313;
-                    overflow: hidden;                             
+                    overflow: hidden;
                     height: 33px;
                     display: inline-block;
                     margin-bottom: 7px;
@@ -298,7 +297,7 @@ header {
                         background: url(../img/arrovlist.png) no-repeat;
                         display: inline-block;
                         color: #535353;
-                        border: none;                        
+                        border: none;
                         height: 33px;
                         padding-left: 15px;
                         background-position: 245px 15px;
@@ -307,7 +306,7 @@ header {
                         -moz-appearance: none;
                         -o-appearance: none;
                         -ms-appearance: none;
-                    }                     
+                    }
                         .form option {
                              background: #131313;
                         }
@@ -323,7 +322,7 @@ header {
                         border: none;
                         color: #535353;
                         padding-left: 15px;
-                        box-sizing: border-box;                
+                        box-sizing: border-box;
                     }
 
                     ::-webkit-input-placeholder {color:#535353;}
@@ -355,7 +354,7 @@ header {
             .find img {
                 margin-top: 20px;
             }
-                 
+
             .find ul {
                 padding-left: 0;
                 margin-top: 5px;
@@ -364,9 +363,9 @@ header {
                     list-style-type: none;
                     height: 30px;
                     width: 133px;
-                    display: inline-block; 
+                    display: inline-block;
                     color: #2098f5;
-                    height: 23px;                        
+                    height: 23px;
                 }
 
                     .find ul li a {
@@ -386,7 +385,7 @@ footer {
     text-align: center;
     color: #939393;
     font-size: 14px;
-    font-family: Arial-Regular; 
+    font-family: Arial-Regular;
 
 }
 
